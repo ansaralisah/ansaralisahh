@@ -9,11 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 💬 Ask me about anything related to web development, especially front-end technologies, and mobile development with Flutter or Android.
 - 📫 How to reach me: [ansaralisah@example.com](mailto:iansarsah@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving complex puzzles in my free time.
-
-## My GitHub Stats
-
-![Ansar Ali Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansaralisah&show_icons=true&theme=radical)
-
+  
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
