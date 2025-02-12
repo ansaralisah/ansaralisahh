@@ -1,12 +1,11 @@
 # Hi there, I'm Ansar Ali Sah! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, mobile development, open-source contributions, and learning new technologies. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in  mobile development, open-source contributions, and learning new technologies. Here's a little bit about me:
 
 - 🔭 I’m currently working on improving my skills in full-stack development and mobile app development.
-- 🌱 I’m currently learning advanced JavaScript, TypeScript, React, Flutter, and Android development.
-- 👯 I’m looking to collaborate on open-source projects and innovative web and mobile applications.
+- 👯 I’m looking to collaborate on open-source projects and innovative mobile applications.
 - 🤔 I’m looking for help with mastering cloud computing and DevOps practices.
-- 💬 Ask me about anything related to web development, especially front-end technologies, and mobile development with Flutter or Android.
+- 💬 Ask me about anything related to mobile development with Flutter or Android.
 - 📫 How to reach me: [iansarsah@gmail.com](mailto:iansarsah@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving complex puzzles in my free time.
   
